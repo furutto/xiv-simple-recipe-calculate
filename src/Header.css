@@ -1,0 +1,13 @@
+.Header {
+  text-align: center;
+}
+
+.Header-header2 {
+  background-color: #4FC3F7;
+  padding: 20px;
+  color: white;
+}
+
+.Header-title {
+  font-size: 1.5em;
+}
