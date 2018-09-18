@@ -66,7 +66,7 @@ export default class FullWidthTabs extends React.Component {
     for(let k in _selectedRecipes) {
       let _recipe = _selectedRecipes[k];
 
-      for(var i=0; i<=5; i++){
+      for(var i=0; i<=9; i++){
         let _name = _recipe['sItem' + i];
 
         if(_name == "") continue;
