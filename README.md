@@ -5,8 +5,6 @@ FFXIVパッチ4.4のレシピから、製作に必要な素材を計算するWeb
 
 ![FFXIV HTML](https://github.com/furutto/xiv-simple-recipe-calculate/blob/master/doc/readme_html.png)
 
-![FFXIV HTML](doc/readme_html.png)  
-
 * クラフター・ジョブアイコン  
 製作可能なアイテムの絞り込みを行います。  
 クラフターアイコンをクリックすると、そのクラフターで製作可能なアイテムを、ジョブアイコンをクリックすると、そのジョブで装備可能なアイテムだけに絞り込めます。
