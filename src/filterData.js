@@ -60,6 +60,11 @@ export const filterData = [
     icon :"./icon/DRK.png",
   },
   {
+    filter:"ガンブレイカー",
+    classes:"tank",
+    icon :"./icon/GNB.png",
+  },
+  {
     filter:"白魔道士",
     classes:"healer",
     icon :"./icon/WHM.png",
@@ -103,6 +108,11 @@ export const filterData = [
     filter:"機工士",
     classes:"dps",
     icon :"./icon/MCH.png",
+  },
+  {
+    filter:"踊り子",
+    classes:"dps",
+    icon :"./icon/DNC.png",
   },
   {
     filter:"黒魔道士",

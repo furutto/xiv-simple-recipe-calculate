@@ -1,5 +1,5 @@
-# FFXIV Simple Recipe Calculate for Patch 4.4
-FFXIVパッチ4.4のレシピから、製作に必要な素材を計算するWebページです。  
+# FFXIV Simple Recipe Calculate for Patch 5.0
+FFXIVパッチ5.0のレシピから、製作に必要な素材を計算するWebページです。  
 
 <https://furutto.github.io/xiv-simple-recipe-calculate/>
 
